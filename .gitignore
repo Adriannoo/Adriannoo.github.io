@@ -1,0 +1,11 @@
+# Estado local e arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log
+__pycache__/
+*.pyc
+.env
+.env.*
