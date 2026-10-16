@@ -32,6 +32,8 @@ Acesse `http://127.0.0.1:8765`. Não há dependências para instalar nem etapa d
 
 Os detalhes dos projetos estão no objeto `details` de `app.js`; mantenha-os alinhados às descrições de `index.html`. Imagens foram copiadas dos respectivos projetos e seus dados são demonstrativos. O ParceiroAuto está identificado como projeto em desenvolvimento.
 
+A apresentação do PokéCompanion inclui a versão com temas claro e escuro, busca com sugestões, comparador, favoritos por conta, equipe de seis Pokémon e quiz. A imagem de capa vem da página inicial atualizada. Login e persistência desse projeto são demonstrações locais, sem serviço de autenticação.
+
 ## Antes de publicar
 
 Confira os nomes e o status dos cursos, as datas profissionais e as descrições dos projetos. Caso queira, acrescente responsabilidades concretas de suas experiências e uma foto pessoal. O contato usa LinkedIn, GitHub e `adriannoordsj@gmail.com`, sem formulário ou serviço de envio.
